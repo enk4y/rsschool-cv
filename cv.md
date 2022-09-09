@@ -41,3 +41,8 @@ function getMiddle(s){
   - HTML and CSS tutorials on the [code-basics](https://ru.code-basics.com/)
   - HTML and CSS tutorials on the [codecademy](https://www.codecademy.com/)
   - JavaScript tutorials on [learn.javascript.ru](https://learn.javascript.ru/)
+
+## **Languages**
+
+- **English** - B1
+- **Russian** - native speaker
