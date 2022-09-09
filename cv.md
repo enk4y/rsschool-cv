@@ -7,3 +7,9 @@
 **Telegram:** [@fatalist](https://t.me/fatalist)  
 **GitHub:** [enk4y](https://github.com/enk4y)  
 **Discord** Nikita Korp (@enk4y)
+
+## **About Me**
+
+I am 24 years old and I work as a software maintenance specialist. Having experience with backend development, I want to try frontend.  
+I consider myself a responsible, independent, reliable and accurate person.  
+There are several goals to me. Firstly, to gain knowledge, skills and practical experience in frontend development. Secondly, temporarily become part of a large community, work with other people and improve communication skills.
